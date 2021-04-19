@@ -54,12 +54,12 @@
 		3A7E5413262DC23800C325B9 /* FrameSizeApp */ = {
 			isa = PBXGroup;
 			children = (
-				3A7E5414262DC23800C325B9 /* FrameSizeApp.swift */,
-				3A7E5416262DC23800C325B9 /* ContentView.swift */,
 				3A7E5418262DC23B00C325B9 /* Assets.xcassets */,
+				3A7E5416262DC23800C325B9 /* ContentView.swift */,
+				3A7E5424262DC24D00C325B9 /* DebugFrameSizeViewModifier.swift */,
+				3A7E5414262DC23800C325B9 /* FrameSizeApp.swift */,
 				3A7E541D262DC23B00C325B9 /* Info.plist */,
 				3A7E541A262DC23B00C325B9 /* Preview Content */,
-				3A7E5424262DC24D00C325B9 /* DebugFrameSizeViewModifier.swift */,
 			);
 			path = FrameSizeApp;
 			sourceTree = "<group>";
