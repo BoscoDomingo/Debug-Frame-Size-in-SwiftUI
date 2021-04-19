@@ -1,5 +1,5 @@
 //
-//  FrameSizeViewModifier.swift
+//  DebugFrameSizeViewModifier.swift
 //  FrameSizeApp
 //
 //  Created by Bosco Domingo on 19/04/21.
